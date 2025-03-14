@@ -326,3 +326,5 @@ TSWLatexianTemp*
 # Vagrant directory
 .vagrant/
 .Rproj.user
+
+.DS_Store
